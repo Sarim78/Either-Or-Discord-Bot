@@ -1,4 +1,4 @@
-# Dilemma-Drop-Discord-Bot
+# Either-OR-Discord-Bot
 
 A Discord bot that posts "Would You Rather" dilemmas with voting buttons, shows the live vote split, and drops a fresh question every day at a time you choose.
 
@@ -18,10 +18,6 @@ Dilemma Drop turns a simple game into a daily ritual for your server. Members vo
 - Daily automatic question at a time you set
 - Votes survive restarts
 - Easy to expand: add your own questions in a single JSON file
-
-## Screenshots
-
-Add a screenshot or GIF of the bot in action here.
 
 ## Getting Started
 
